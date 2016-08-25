@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "pokemonGB";
+    src: url("../fonts/pokemonGB.ttf");
+}
+
+p {
+	font-family: "pokemonGB";
+}
